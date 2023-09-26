@@ -1,0 +1,184 @@
+*{
+    background-color: black;
+    
+}
+.hading{
+    font-size: large;
+    color: aqua;
+}
+.intro{
+font-size: small;
+color: aliceblue;
+/* display: flex; */
+
+}
+.image{
+        display: flex;
+        flex-wrap: wrap;
+        border-radius: 60px;
+        /* margin: 50px; */
+        padding: 20px;
+        /* justify-content: flex-end;    */
+
+
+}
+
+.image img{
+         
+    height: 200px;
+    width: 250px;
+    margin: 10px;
+    padding: 30px;   
+    border-radius: 50px;
+    /* flex-wrap: wrap; */
+}
+.figur{
+    height: 500px;
+    width: 500px;
+}
+.image img:hover{
+    transform: scale(1.25)translate(-5px);
+    background-color: cadetblue;
+   
+}
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
